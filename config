@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "Rajesh-Laddu"]
+	url = https://github.com/LadduRajesh/fastapi.git
+	fetch = +refs/heads/*:refs/remotes/Rajesh-Laddu/*
